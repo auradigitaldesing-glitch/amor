@@ -18,7 +18,7 @@ let index = -1;
 btnSi.addEventListener('click', function () {
     Swal.fire({
         title: '¡Sabía que dirías que sí!',
-        text: '¡Que eres mía y solamente mía, naki! 😊😘',
+        text: 'Eres solamente mía y de nadie más, y bueno... un poco de naki 😊😘',
         imageUrl: carpetaIMG + 'image_SI.gif',
         confirmButtonText: 'Cerrar',
         confirmButtonColor: '#6C3597'
